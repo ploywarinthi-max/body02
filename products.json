@@ -6,7 +6,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/fresh.jpg",
+    "image": "images/faesh.jpg",
     "description": "กลิ่นสดชื่นโปร่งเบา เหมาะกับวันที่อยากรู้สึกสะอาดและกระปรี้กระเปร่า ขนาดพกพา"
   },
   {
@@ -16,7 +16,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/fresh.jpg",
+    "image": "images/faesh.jpg",
     "description": "กลิ่นสดชื่นโปร่งเบา เหมาะกับวันที่อยากรู้สึกสะอาดและกระปรี้กระเปร่า ขนาดคุ้มค่าสำหรับใช้ทุกวัน"
   },
   {
@@ -46,7 +46,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/confident.jpg",
+    "image": "images/Confident.jpg",
     "description": "กลิ่นมั่นคงมีบุคลิก เติมความมั่นใจก่อนเริ่มงานสำคัญ ขนาดพกพา"
   },
   {
@@ -56,7 +56,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/confident.jpg",
+    "image": "images/Confident.jpg",
     "description": "กลิ่นมั่นคงมีบุคลิก เติมความมั่นใจก่อนเริ่มงานสำคัญ ขนาดคุ้มค่าสำหรับใช้ทุกวัน"
   },
   {
@@ -66,7 +66,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/romance.jpg",
+    "image": "images/Romance.jpg",
     "description": "กลิ่นอ่อนหวานโรแมนติก ให้ความรู้สึกใกล้ชิดและน่าจดจำ ขนาดพกพา"
   },
   {
@@ -76,7 +76,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/romance.jpg",
+    "image": "images/Romance.jpg",
     "description": "กลิ่นอ่อนหวานโรแมนติก ให้ความรู้สึกใกล้ชิดและน่าจดจำ ขนาดคุ้มค่าสำหรับใช้ทุกวัน"
   },
   {
@@ -86,7 +86,7 @@
     "type": "rollon",
     "size": null,
     "price": 149,
-    "image": "images/fresh.jpg",
+    "image": "images/faesh.jpg",
     "description": "โรลออนกลิ่นสดชื่นโปร่งเบา ทาง่าย พกสะดวก เติมกลิ่นได้ตลอดวัน"
   },
   {
